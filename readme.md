@@ -12,7 +12,7 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 Home Page
 
-![](Images/Home Page.png)
+![](Images/HomePage.png)
 
 Results Page - Form
 
