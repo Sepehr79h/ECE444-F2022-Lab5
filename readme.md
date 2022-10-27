@@ -21,3 +21,23 @@ Results Page - Form
 Results Page - Results Table
 
 ![](Images/Results.png)
+
+**Activity 6**
+
+User Story 1: Course Page
+
+![](Images/CoursePage1.png)
+
+![](Images/CoursePage2.png)
+
+User Story 2: Comments Section
+
+![](Images/Comments1.png)
+
+![](Images/Comments2.png)
+
+User Story 3: Timetable
+
+![](Images/Timetable1.png)
+
+![](Images/Timetable2.png)
